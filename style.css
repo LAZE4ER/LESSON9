@@ -1,0 +1,38 @@
+.ii{
+    border: solid 2px black;
+    height: 350px;
+    width: 250px;
+    margin-left: 45px;
+    box-sizing:border-box ;
+    
+
+}
+.img{
+ height: 150px;
+ width: 130px;
+ margin: auto;
+ display: block;
+}
+.ert{
+    font-size: 40px;
+    font-family: 'Stick No Bills', sans-serif;
+    margin: 0;
+}
+.fgh{
+    font-family: 'Stick No Bills', sans-serif;
+      font-size: 25px;
+      font-weight: 200;
+}
+.DER{
+    display: block;
+    height: 30px;
+    width: 60%;
+    background-color: cadetblue;
+color: cyan;
+text-decoration:none;
+font-family: 'Stick No Bills', sans-serif;
+margin: auto;
+text-align: center;
+line-height: 40px;
+margin-top: 18px;
+}
